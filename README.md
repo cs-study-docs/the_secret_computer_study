@@ -7,10 +7,10 @@ date : `2026-02-01 ~ On going`
 
 
 ### 👥 멤버
-- 박기현 ([@pgh97](https://github.com/pgh97)
-- 박종훈 ([@chapakook](https://github.com/chapakook)
-- 심보경 ([@simbokyung98](https://github.com/simbokyung98)
-- 김태훈 ([@xogns4909](https://github.com/xogns4909))
+- 박기현 ( [@pgh97](https://github.com/pgh97) )
+- 박종훈 ( [@chapakook](https://github.com/chapakook) )
+- 심보경 ( [@simbokyung98](https://github.com/simbokyung98) )
+- 김태훈 ( [@xogns4909](https://github.com/xogns4909) )
 
 
 ### 📖 도서
