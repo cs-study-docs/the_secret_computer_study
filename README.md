@@ -1,31 +1,29 @@
-# 컴퓨터 밑바닥의 비밀 스터디 📚
+## 컴퓨터 밑바닥의 비밀 스터디 📚
+
+date : `2026-02-01 ~ On going`
 
 “컴퓨터 밑바닥의 비밀” 한 권을 끝까지 완주합니다.  
 매주 정해진 범위를 읽고, 발표 + 질문 중심으로 진행합니다.
 
----
 
-## 👥 멤버
-- 박기현 — [@pgh97](https://github.com/pgh97)
-- 박종훈 — [@chapakook](https://github.com/chapakook)
-- 심보경 — [@simbokyung98](https://github.com/simbokyung98)
-- 김태훈 — [@xogns4909](https://github.com/xogns4909)
+### 👥 멤버
+- 박기현 ([@pgh97](https://github.com/pgh97)
+- 박종훈 ([@chapakook](https://github.com/chapakook)
+- 심보경 ([@simbokyung98](https://github.com/simbokyung98)
+- 김태훈 ([@xogns4909](https://github.com/xogns4909))
 
----
 
-## 📖 도서
+### 📖 도서
 - **도서명**: 컴퓨터 밑바닥의 비밀 
 - **저자**: **루 샤오펑**
 
----
+![9791140708819](https://github.com/user-attachments/assets/6750cf67-d0a6-4ff1-a421-1f65765479d5)
 
-## 🗓️ 진행 방식
+### 🗓️ 진행 방식
 - **주 1회** (일정/플랫폼은 스터디에서 공지)
 - 각 주차 범위 읽기 → 발표자 발표 → 토론
 
----
-
-## 📌 주차별 범위 & 발표자
+### 📌 주차별 범위 & 발표자
 
 | 주차 | 범위 | 발표자 |
 |---|---|---|
@@ -37,15 +35,13 @@
 | 6주차 | 5장 | 심보경 |
 | 7주차 | 6장 | 박종훈 |
 
----
 
-## ✅ 매주 준비물
+### ✅ 매주 준비물
 - 읽은 내용에서 **핵심 3개**
 - **질문 2개** (모르겠거나 토론할 만한 것)
 
----
 
-## 📂 레포 구조(권장)
+### 📂 레포 구조(권장)
 ```text
 weeks/
   week01/
@@ -57,3 +53,7 @@ weeks/
   week04/
     jonghun.md
   ...
+```
+
+
+
